@@ -1,4 +1,4 @@
-This is an example of how to use provider in 0xcert framework v2.
+This is an example of how to use a Metamask provider in 0xcert framework v2.
 
 Project stucture:
 
