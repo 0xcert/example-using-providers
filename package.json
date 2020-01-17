@@ -1,5 +1,5 @@
 {
-  "name": "@0xcert/ethereum-example-using-providers",
+  "name": "example-using-providers",
   "version": "0.0.1",
   "description": "",
   "main": "index.html",
@@ -8,7 +8,7 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
-    "@0xcert/ethereum-metamask-provider": "2.0.0-alpha12"
+    "@0xcert/ethereum-metamask-provider": "2.0.0-beta"
   },
   "devDependencies": {
     "parcel-bundler": "^1.6.1"
